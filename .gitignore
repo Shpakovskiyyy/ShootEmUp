@@ -1,8 +1,11 @@
 .vs
+.idea
 *.sln
+*.user
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 Binaries/
 Build/
+
